@@ -1,0 +1,6 @@
+C:\Users\esink\yahtzee\yahtzee\yahtzee\bin\Debug\yahtzee.exe.config
+C:\Users\esink\yahtzee\yahtzee\yahtzee\bin\Debug\yahtzee.exe
+C:\Users\esink\yahtzee\yahtzee\yahtzee\bin\Debug\yahtzee.pdb
+C:\Users\esink\yahtzee\yahtzee\yahtzee\obj\Debug\yahtzee.csprojResolveAssemblyReference.cache
+C:\Users\esink\yahtzee\yahtzee\yahtzee\obj\Debug\yahtzee.exe
+C:\Users\esink\yahtzee\yahtzee\yahtzee\obj\Debug\yahtzee.pdb
